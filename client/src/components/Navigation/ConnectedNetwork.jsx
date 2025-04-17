@@ -7,7 +7,7 @@ const ConnectedNetwork = ()=>{
       return <p className="network">Not connected</p>;
    }
    else if (chainId === 97) {
-      return <p className="network">Sepolia</p>;
+      return <p className="network">Binance Smart Chain</p>;
     } else {
       return <p className="network"> Network Not Detected</p>;
     }
