@@ -33,7 +33,7 @@ export const connectWallet = async()=>{
    //  const stakeTokenContractAddress="0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8"
 
    const stakingContractAddress="0x1Dac2FAD79f5188c4f3412482bFdd8AC5C15b032"
-   const stakeTokenContractAddress="00xc694284836c02c521262315e7f5cbb199bf80844"
+   const stakeTokenContractAddress="0xc694284836c02c521262315e7f5cbb199bf80844"
 
    
 
